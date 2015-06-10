@@ -1,0 +1,20 @@
+{
+  "name": "react-tutorial",
+  "version": "0.0.0",
+  "description": "React is a JavaScript library for building user interfaces.",
+  "main": "server.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
